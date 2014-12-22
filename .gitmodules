@@ -1,3 +1,3 @@
 [submodule "Markdown/vendor/php-markdown"]
 	path = Markdown/vendor/php-markdown
-	url = git@github.com:michelf/php-markdown.git
+	url = https://github.com/michelf/php-markdown.git
