@@ -2,6 +2,7 @@
     
     /* Refs #1: Remove summernote when markdown is enabled */
     $(document).ready(function() {
-	$('#body').destroy();
+	//tinymce.EditorManager.execCommand('mceRemoveEditor',true, '.wysiwyg'); 
+	
     });
 </script>
