@@ -1,3 +1,3 @@
 <script>
-    $('.wysiwyg').removeClass('wysiwyg');
+    //$('.wysiwyg').removeClass('wysiwyg');
 </script>
